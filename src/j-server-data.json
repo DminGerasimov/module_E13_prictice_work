@@ -1,0 +1,20 @@
+{
+  "cards": [
+    {
+      "name": "name1",
+      "phone": "+791039345*1",
+      "sex": "man"
+    },
+    {
+      "name": "name2",
+      "phone": "+791039345*2",
+      "sex": "woman"
+    },
+    {
+      "name": "name3",
+      "phone": "+791039345*3",
+      "sex": "edik"
+    }
+
+  ]
+}
